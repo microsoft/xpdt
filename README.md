@@ -53,5 +53,18 @@ Example:
 ### Confirm investigation package is created (uncompressed tarball for Linux, zip file for MacOS):
 - You should find a package named beta-<--OS-->-PerformanceTool_v<--version-->.sh-<--date-->.<tar|zip>
 
+### Live usage examples:
+
+- Download the script:
+![2024-05-15 15_34_42](https://github.com/microsoft/xpdt/assets/113130572/7695f0fa-dd81-4b2f-9145-6d6479e5a128)
+
+- Execute the script:
+![2024-05-15 15_35_12](https://github.com/microsoft/xpdt/assets/113130572/07cc3b46-7f1f-41b3-91c0-641da34ffb40)
+
+- Identify diagnostic package
+![2024-05-15 15_37_29](https://github.com/microsoft/xpdt/assets/113130572/5766e4ae-1fb8-49eb-8d93-59849dc3cc32)
+
+
 # Future work:
-- Planning on merging the two diagnostic tools in one single file that will be called betaXplatPerformanceTool_v<-version>.sh.
+- Code revision for efficiency
+- I'm currently planning on merging the two diagnostic tools in one single file, that will be called betaXplatPerformanceTool_v<-version>.sh.
