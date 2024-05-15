@@ -8,6 +8,9 @@ The 'beta Xplat Performance Tool' is intended for Linux performance data collect
 'beta Xplat Performance Tool' captures CPU and Memory data for a period of time and is at the moment, independent of “Client Analyzer” for Linux: it does not depend on python or "Client Analyzer" code to be executed. It’s a command-line tool, shellscript, that receives an interval of time as parameter, and captures CPU and Memory activity for that specified period. The processes being monitored are wdavdaemon (edr, rtp and av components), and if running, audisp plugin (if plugin is disabled due to eBPF, audisp plugin won't be picked up). Can also be used in a 'long run' mode in the background, to spot memory leaks or track resource behavior for a long time. A parameter calculator is embeded on the code to calculate the right parameters for the collection interval.
 Note that CPU values displayed on the graphs, are relative and not absolute - each CPU counts as 100% (as natively presented by TOP, in Linux), as opposed to absolute readings seen on Windows that aggregate all CPUs and make it 100%.
 
+# What it does not:
+'beta Xplat Performance Tool' is not a system log collection tool. System logs, should be collected with "XMDE Client Analyzer" as established.
+
 # Main advantages
 - Easy to use and to interpret data
 - Light-wheight
