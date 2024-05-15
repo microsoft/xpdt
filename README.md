@@ -59,7 +59,7 @@ Example:
 ![2024-05-15 15_34_42](https://github.com/microsoft/xpdt/assets/113130572/7695f0fa-dd81-4b2f-9145-6d6479e5a128)
 
 - Execute the script:
-![2024-05-15 15_35_12](https://github.com/microsoft/xpdt/assets/113130572/07cc3b46-7f1f-41b3-91c0-641da34ffb40)
+![2024-05-15 15_35_12](https://github.com/microsoft/xpdt/assets/113130572/4e40d62d-3011-4a22-9a43-3b95d1d25ce6)
 
 - Identify diagnostic package:
 ![2024-05-15 15_37_29](https://github.com/microsoft/xpdt/assets/113130572/5766e4ae-1fb8-49eb-8d93-59849dc3cc32)
