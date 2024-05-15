@@ -38,19 +38,19 @@ Linux, using your terminal/shell:
 Example:
 - ./betaMacOSPerformanceTool_v4.2.1.sh -h
   
-### Run script as needed. Below example runs for 1 minute (60 seconds):
+### Run script as needed. In the below example, script runs for 1 minute (60 seconds):
 - ./beta<--OS-->PerformanceTool_v<--version-->.sh -ps 60
 
 Example:
 - ./betaMacOSPerformanceTool_v4.2.1.sh -ps 60
 
-### If you need to collect data for 5 minutes (300 seconds):
+### If you need to collect data for 5 minutes (300 seconds), run script as follows:
 - ./beta<--OS-->PerformanceTool_v<--version-->.sh -ps 300
 
 Example:
 - ./betaMacOSPerformanceTool_v4.2.1.sh -ps 300
 
-### Confirm investigation package is created (uncompressed tarball for Linux, zip file for MacOS):
+### Confirm investigation package is created (uncompressed tarball for Linux, zip file for MacOS), is created in the directory the script was executed from:
 - You should find a package named beta-<--OS-->-PerformanceTool_v<--version-->.sh-<--date-->.<tar|zip>
 
 # Live usage examples:
@@ -62,7 +62,7 @@ Example:
 
    ![2024-05-15 15_35_12](https://github.com/microsoft/xpdt/assets/113130572/40582950-66e3-4d33-8ca2-429e350b2c7c)
 
-- Identify diagnostic package:
+- Confirm investigation package is created:
 ![2024-05-15 15_37_29](https://github.com/microsoft/xpdt/assets/113130572/5766e4ae-1fb8-49eb-8d93-59849dc3cc32)
 
 # Future work:
