@@ -34,11 +34,22 @@ Linux, using your terminal/shell:
 ### Read 'help' dialog for instructions:
 
 - ./beta<--OS-->PerformanceTool_v<--version-->.sh -h
+
+Example:
+- ./betaMacOSPerformanceTool_v4.2.1.sh -h
   
 ### Run script as needed. Below example runs for 1 minute (60 seconds):
 - ./beta<--OS-->PerformanceTool_v<--version-->.sh -ps 60
+
+Example:
+- ./betaMacOSPerformanceTool_v4.2.1.sh -ps 60
+
 ### If you need to collect data for 5 minutes (300 seconds):
 - ./beta<--OS-->PerformanceTool_v<--version-->.sh -ps 300
+
+Example:
+- ./betaMacOSPerformanceTool_v4.2.1.sh -ps 300
+
 ### Confirm investigation package is created (uncompressed tarball for Linux, zip file for MacOS):
 - You should find a package named beta-<--OS-->-PerformanceTool_v<--version-->.sh-<--date-->.<tar|zip>
 
