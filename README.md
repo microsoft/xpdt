@@ -37,7 +37,8 @@ Download for Linux, using your terminal/shell:
 
 Example:
 - ./betaMacOSPerformanceTool_v4.2.1.sh -h
-  
+![help](https://github.com/microsoft/xpdt/assets/113130572/3ee20bdf-3a94-4603-b7f6-445d9805967c)
+
 ### Run script as needed. In the below example, script runs for 1 minute (60 seconds):
 - ./beta<--OS-->PerformanceTool_v<--version-->.sh -ps 60
 
