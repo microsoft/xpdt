@@ -74,5 +74,7 @@ Example:
 ![2024-05-15 15_37_29](https://github.com/microsoft/xpdt/assets/113130572/5766e4ae-1fb8-49eb-8d93-59849dc3cc32)
 
 # Future work:
-- Code revision for efficiency
-- I'm currently planning on merging the two diagnostic tools in one single file, that will be called betaXplatPerformanceTool_v<-version>.sh.
+- Bugfixes
+- Merge the two diagnostic tools in one single file
+- Code revision/optimization
+
