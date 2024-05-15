@@ -53,7 +53,7 @@ Example:
 ### Confirm investigation package is created (uncompressed tarball for Linux, zip file for MacOS):
 - You should find a package named beta-<--OS-->-PerformanceTool_v<--version-->.sh-<--date-->.<tar|zip>
 
-### Live usage examples:
+# Live usage examples:
 
 - Download the script:
 ![2024-05-15 15_34_42](https://github.com/microsoft/xpdt/assets/113130572/7695f0fa-dd81-4b2f-9145-6d6479e5a128)
