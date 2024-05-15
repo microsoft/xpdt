@@ -30,8 +30,6 @@ MacOS, using your terminal/shell:
 
 Linux, using your terminal/shell:
 - wget -O betaLinuxPerformanceTool_v4.2.1.sh https://raw.githubusercontent.com/microsoft/xpdt/main/betaLinuxPerformanceTool_v4.2.1.sh && chmod a+x betaLinuxPerformanceTool_v4.2.1.sh
-or
-- curl https://raw.githubusercontent.com/microsoft/xpdt/main/betaLinuxPerformanceTool_v4.2.1.sh -o betaMacOSPerformanceTool_v4.2.1.sh && chmod a+x betaMacOSPerformanceTool_v4.2.1.sh
   
 ### Read 'help' dialog for instructions:
 
