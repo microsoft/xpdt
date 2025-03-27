@@ -30,7 +30,7 @@ Note that CPU values displayed on the graphs, are relative and not absolute - ea
 # Usage:
 ### Download the script for MacOS or Linux:
 Download for MacOS, using your terminal/shell: 
-- curl https://raw.githubusercontent.com/microsoft/xpdt/main/betaLinuxPerformanceTool_v4.2.1.sh -o betaMacOSPerformanceTool_v4.2.1.sh && chmod a+x betaMacOSPerformanceTool_v4.2.1.sh
+- curl https://raw.githubusercontent.com/microsoft/xpdt/main/betaMacOSPerformanceTool_v4.2.1.sh -o betaMacOSPerformanceTool_v4.2.1.sh && chmod a+x betaMacOSPerformanceTool_v4.2.1.sh
 
 Download for Linux, using your terminal/shell:
 - wget -O betaLinuxPerformanceTool_v4.2.1.sh https://raw.githubusercontent.com/microsoft/xpdt/main/betaLinuxPerformanceTool_v4.2.1.sh && chmod a+x betaLinuxPerformanceTool_v4.2.1.sh
